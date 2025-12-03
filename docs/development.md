@@ -117,7 +117,7 @@ The file is included in builds and updated after app launch, so changes may not 
 #### Other URLS
 
 [Apple App Store connect](https://appstoreconnect.apple.com/apps)
-[Codecov Code Coverage](https://app.codecov.io/gh/OpenTails/tail_app)
+[Codecov Code Coverage](https://app.codecov.io/gh/shedowe19/tail_app)
 
 ### Misc
 

@@ -6,7 +6,7 @@
     "replayOnErrorSampleRate": 0.1
   },
   "appVersion": {
-    "url": "https://github.com/OpenTails/tail_app/releases/download/1.4.1/tailCompanyApp-1.4.1-2428.apk",
+    "url": "https://github.com/shedowe19/tail_app/releases/download/1.4.1/tailCompanyApp-1.4.1-2428.apk",
     "changelog": "\n- Fix issue where having a glowtip move selected will stop normal moves from running for triggers\n",
     "version": {
       "major": 1,
@@ -32,6 +32,6 @@
   },
   "urls": {
     "coshubUrl": "https://onelink.to/coshub",
-    "dynamicConfigFileUrl": "https://raw.githubusercontent.com/OpenTails/tail_app/master/assets/dynamic_config.json"
+    "dynamicConfigFileUrl": "https://raw.githubusercontent.com/shedowe19/tail_app/master/assets/dynamic_config.json"
   }
 }
