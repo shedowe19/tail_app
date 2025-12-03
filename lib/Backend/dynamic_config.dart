@@ -82,7 +82,7 @@ abstract class FeatureFlags with _$FeatureFlags {
 abstract class URLs with _$URLs {
   const factory URLs({
     @Default("https://onelink.to/coshub") String coshubUrl,
-    @Default("https://raw.githubusercontent.com/OpenTails/tail_app/master/assets/dynamic_config.json") String dynamicConfigFileUrl,
+    @Default("https://raw.githubusercontent.com/shedowe19/tail_app/master/assets/dynamic_config.json") String dynamicConfigFileUrl,
   }) = _URLs;
 
   factory URLs.fromJson(Map<String, dynamic> json) => _$URLsFromJson(json);
